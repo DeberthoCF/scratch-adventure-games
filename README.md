@@ -1,5 +1,5 @@
 # scratch-adventure-games
-adventure game created using Scratch
+
 
 
 This project is an adventure game created with Scratch.
