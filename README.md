@@ -10,4 +10,4 @@ A prince fights to save a princess, overcoming obstacles and challenges with mus
 Game link:
 https://scratch.mit.edu/projects/1035048934/  
 
-![Game Demo](https://github.com/DeberthoCF/scratch-adventure-games/blob/main/demo_gif.mp4)
+![Game Demo](https://github.com/DeberthoCF/scratch-adventure-games/blob/main/demo.gif.gif)
